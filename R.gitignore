@@ -54,3 +54,7 @@ docs/
 
 # System files
 *.DS_Store
+
+# brmfit
+/brmfit/
+/brmsfit/
