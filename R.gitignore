@@ -44,8 +44,8 @@ docs/
 # Output data
 *.Rda
 *.pdf
-*.csv
-*.html
+./*.csv
+./*.html
 *.docx
 *.tex
 *.log
@@ -56,5 +56,4 @@ docs/
 *.DS_Store
 
 # brmfit
-/brmfit/
-/brmsfit/
+./brmfit/
